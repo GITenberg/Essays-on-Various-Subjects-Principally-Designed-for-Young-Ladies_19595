@@ -1,0 +1,35 @@
+_repo: Essays-on-Various-Subjects-Principally-Designed-for-Young-Ladies_19595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: More, Hannah
+    aliases:
+    - Chip, Will
+    - Moore, Hannah
+    birthdate: 1745
+    deathdate: 1833
+    gutenberg_agent_id: '5807'
+    url: http://www.gutenberg.org/2009/agents/5807
+    wikipedia: http://en.wikipedia.org/wiki/Hannah_More
+description: ''
+gutenberg_issued: '2006-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Education'
+- !lcc 'PR'
+- !lcsh 'Women -- Conduct of life'
+- !lcsh 'Essays'
+tableOfContents: Introduction -- On dissipation -- On conversation -- On envy -- On
+  sentimental connexions -- On true and false meekness -- On education -- On religion
+  -- Miscellaneous thoughts on wit.
+title: Essays on Various Subjects, Principally Designed for Young Ladies
+url: http://www.gutenberg.org/ebooks/19595
